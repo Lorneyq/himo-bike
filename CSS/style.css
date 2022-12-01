@@ -1030,7 +1030,9 @@ td {
   .bike-price::after {
     display: none;
   }
-
+  .podval-main {
+    margin-top: 232px;
+  }
   .bike-price span {
     font-size: 18px;
   }
